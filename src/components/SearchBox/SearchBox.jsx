@@ -9,7 +9,7 @@ const SearchBox = () => {
 
   return (
     <div className={style.search}>
-      <p>Find contacts by name</p>
+      <p className={style.text}>Find contacts by name:</p>
       <input
         className={style.input}
         type="text"

@@ -1,6 +1,11 @@
 .search {
   margin-bottom: 20px;
 }
+.text {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
 
 .input {
   width: 350px;
